@@ -21,6 +21,8 @@ export default function Content() {
           <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">SUBTITLE</h3>
           <h2 className="text-lg text-white font-medium title-font mb-4">img name</h2>
           <p className="leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+          <h2 className="text-lg text-white font-medium title-font mb-4">Screen Printing</h2>
+          <p className="leading-relaxed text-base">Involves pushing ink through a stencil (or "screen") onto a substrate.</p>
         </div>
       </div>
       <div className="xl:w-1/4 md:w-1/2 p-4">
